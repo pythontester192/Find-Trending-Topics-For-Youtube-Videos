@@ -8,4 +8,4 @@
 - Run `python sameple.py` to Scrape The Trending Topics For Youtube Videos in Various Countries.
 
 ## Watch This Full Tutorial Video on How to Use This GitHub Project
-- Follow Step By Step This [Youtube Video Tutorial](https://www.youtube.com/c/PythonPassiveIncome)
+- Follow Step By Step This [Youtube Video Tutorial](https://youtu.be/8GAuUXshulo)
